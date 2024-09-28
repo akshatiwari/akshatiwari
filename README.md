@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akshat Tiwari</h1>
+[![akshatiwari's GitHub | Stats](https://stats.quira.sh/akshatiwari/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=akshatiwari)<h1 align="center">Hi 👋, I'm Akshat Tiwari</h1>
 <h3 align="center">Data Science enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshatiwari&label=Profile%20views&color=0e75b6&style=flat" alt="akshatiwari" /> </p>
