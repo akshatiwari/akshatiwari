@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate and peer work on **Computational Philosphy**
 
-- 📫 How to reach me **tiwari.4.akshat@gmail.com**
+- 📫 You can reach me at **tiwari.4.akshat@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
